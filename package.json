@@ -6,10 +6,10 @@
   "files": [
     "normalize.scss"
   ],
-  "homepage": "https://github.com/msikma/normalize.scss",
+  "homepage": "https://github.com/msikma/normalize.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/msikma/normalize.scss.git"
+    "url": "git://github.com/msikma/normalize.css.git"
   },
   "contributors": [
     "Michiel Sikma <michiel@sikma.org>"
